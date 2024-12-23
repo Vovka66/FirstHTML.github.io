@@ -1,0 +1,14 @@
+body{
+    font-size: 17px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    background-color: azure;
+    color: blue !important;
+}
+p{
+    font-weight: bold;
+    color: red ;
+}
+.test{
+    color: green;
+}
